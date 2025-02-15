@@ -1,4 +1,5 @@
 // Assigment 1 CS303.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// used old past C++ labs to help reused functions. 
 #include "Function.h"
 #include <iostream>
 #include <fstream>
@@ -17,7 +18,7 @@ void displayMenu() {
 }
 
 int main() {
-    int arr[MAX_SIZE]; // Array to store numbers
+    int arr[MAX_SIZE]; // Array 
     int size = 0;      // Tracks the number of elements
 
     // Open input file
