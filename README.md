@@ -5,4 +5,4 @@ Click run to start program. Menu:
 3. Add a new number to the array
 4. Remove a number from the array
 5. Display the array.
-Choose one of the options you want to do. 
+Choose one of the options you want to do. When adding a new number you must remove a number from the array first, as the array has a set amount.
